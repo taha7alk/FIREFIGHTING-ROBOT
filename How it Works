@@ -1,0 +1,10 @@
+
+
+The robot remains stationary until fire is detected.
+Based on sensor input:
+Fire Ahead: Moves forward.
+Fire to the Left/Right: Turns accordingly.
+Once near the fire, the robot stops and:
+Activates the water pump.
+Sweeps the servo to extinguish the fire.
+After extinguishing the fire, the robot resumes normal operation.
