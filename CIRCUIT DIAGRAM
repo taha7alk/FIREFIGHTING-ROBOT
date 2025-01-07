@@ -1,0 +1,8 @@
+Component	Pin Connection
+Left Sensor	Digital Pin 12
+Right Sensor	Digital Pin 11
+Front Sensor	Digital Pin 10
+Left Motor	Digital Pins 2, 3
+Right Motor	Digital Pins 4, 5
+Servo Motor	Digital Pin 9
+Water Pump	Digital Pin 8
