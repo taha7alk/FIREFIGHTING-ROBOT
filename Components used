@@ -1,0 +1,6 @@
+Arduino Uno (or compatible microcontroller).
+Flame Sensors: For Left, Right, and Forward fire detection.
+DC Motors and Motor Driver: For robot movement.
+Servo Motor: To control water nozzle sweeping motion.
+Water Pump: For extinguishing fire.
+Chasis and Parts: Wheels, chassis, and wiring.
